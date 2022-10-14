@@ -1,0 +1,3 @@
+https://www.digitalocean.com/community/tutorials/introduction-to-queries-postgresql
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-joins/
+https://bytescout.com/blog/postgresql-advanced-queries.html
