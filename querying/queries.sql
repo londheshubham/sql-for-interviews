@@ -446,3 +446,12 @@ from
                 f.user_id1 is not null
                 or f3.user_id1 is not null -- since we are doing left joins we wish to make sure the user is present on the join or it is not null
             );
+
+-- some subquery examples
+
+SELECT *
+FROM users
+WHERE age = (
+  SELECT MIN(age)
+  FROM users
+);
