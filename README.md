@@ -1,1 +1,1 @@
-will be updated pretty soon!
+A session exclusively for univ.ai students. 

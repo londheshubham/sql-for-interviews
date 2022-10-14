@@ -1,0 +1,5 @@
+1. Go through the instructions.txt file in the repoistory and install pgadmin and postgresql.
+2. Create a database and table as per your need or you may use schemas present in this repoistory.
+3. Play around all the queries available in this repoistory.
+4. Read about subquerying and transaction.
+5. Come up with atleast 3 SQL interview questions.

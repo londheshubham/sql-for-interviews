@@ -1,1 +1,15 @@
-A guide to setup postgresql either in local or how make use of sqlfiddle.com
+A guide to setup postgresql either in local or how make use of db-fiddle.com
+
+Postgresql linux based OS:
+https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-22-04-quickstart
+
+Pgadmin (which is a graphical tool to manage and query database) linux os:
+https://www.how2shout.com/linux/how-to-install-pgadmin-4-on-ubuntu-20-04-lts-linux/
+
+Postgresql windows OS:
+https://phoenixnap.com/kb/install-postgresql-windows
+
+Pgadmin (which is a graphical tool to manage and query database) for linux os:
+https://www.pgadmin.org/download/pgadmin-4-windows/
+
+To query and manage the postgresql database you may use any other tool such as dbeaver, tableplus.
